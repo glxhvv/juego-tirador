@@ -1,0 +1,2 @@
+# juego-tirador
+Juego del tirador con Pygame avanzado 
